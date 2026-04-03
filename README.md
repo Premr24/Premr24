@@ -21,7 +21,7 @@ I'm a Python developer passionate about **Data Science, Machine Learning, and De
 - 🔭 Currently working on **ML and AI projects**
 - 🌱 Currently learning **Deep Learning, Neural Networks, and Advanced AI**
 - 📊 Skilled in **data analysis, visualization, and building ML models**
-- 💡 Background in **Java & backend development** giving me a strong programming foundation
+- 💡 Background in **Java & backend development** — giving me a strong programming foundation
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prem-rawal/)
 - 📍 Based in **Nepal**
 
@@ -76,10 +76,7 @@ I'm a Python developer passionate about **Data Science, Machine Learning, and De
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premr24&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premr24&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premr24&theme=default&hide_border=true" height="160" />
