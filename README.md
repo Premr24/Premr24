@@ -96,6 +96,3 @@ I'm always open to collaborating on data projects, discussing ideas, or just con
 
 ---
 
-<p align="center">
-  <i>"In God we trust. All others must bring data." — W. Edwards Deming</i>
-</p>
