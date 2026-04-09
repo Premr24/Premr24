@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prem Rawal 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Scientist · Python · Machine Learning · Deep Learning</b><br/>
+  <b>Data Scientist · Python · Machine Learning · Deep Learning</b><br/>
   Turning data into insights, one model at a time 🇳🇵
 </p>
 
