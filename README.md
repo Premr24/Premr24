@@ -23,6 +23,7 @@ I'm a Python developer passionate about **Data Science, Machine Learning, and De
 - 📊 Skilled in **data analysis, visualization, and building ML models**
 - 💡 Background in **Java & backend development** — giving me a strong programming foundation
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prem-rawal/)
+- 🔗 Visit [My Portfolio](https://prem-portfolio-dun.vercel.app)
 - 📍 Based in **Nepal**
 
 ---
