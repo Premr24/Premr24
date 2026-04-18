@@ -48,10 +48,6 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://prem-portfolio-dun.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="40" width="40"
-      onerror="this.src='https://img.icons8.com/ios-filled/40/0D47A1/domain.png'" />
-  </a>
 </p>
 
 ---
@@ -61,37 +57,24 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 **💻 Languages**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,mysql&theme=dark" />
 </p>
 
 **🤖 Data Science & Machine Learning**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" title="Keras" />&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" title="Seaborn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,keras,seaborn&theme=dark" />
 </p>
 
 **🧰 Tools & Environment**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" title="Power BI" />&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" title="Microsoft Excel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,vscode,git,github,powerbi,excel&theme=dark" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥Stats
 
 <div align="center">
 
@@ -115,72 +98,8 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premr24/Premr24/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premr24/Premr24/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Premr24/Premr24/output/github-contribution-grid-snake.svg" width="96%" />
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ <b>Click here — How to activate the Snake animation (one-time setup)</b></summary>
-
-<br/>
-
-**Step 1 — Go to your profile repository**
-> Open `github.com/Premr24/Premr24` (the repo with the same name as your username)
-
-**Step 2 — Create the workflow file**
-> Inside the repo, create this exact folder path and file:
-> ```
-> .github/workflows/snake.yml
-> ```
-> *(Create `.github` folder → inside it create `workflows` folder → inside it create `snake.yml`)*
-
-**Step 3 — Paste this content into `snake.yml`**
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
->   push:
->     branches: [main]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-**Step 4 — Run it manually the first time**
-> Go to your repo → click **Actions** tab → click **Generate Snake Animation** → click **Run workflow** → click the green **Run workflow** button
-
-**Step 5 — Done! ✅**
-> After ~30 seconds the snake SVG will be generated and the animation will appear in your README automatically. After this it auto-runs every day.
-
-</details>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1565C0&height=120&section=footer" width="100%" />
-
-*"In God we trust. All others must bring data." — W. Edwards Deming*
 
 </div>
