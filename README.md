@@ -24,7 +24,13 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 
 <br/>
 
-🔭 &nbsp;Currently working on **ML and AI projects** 🌱 &nbsp;Currently learning **Deep Learning, Neural Networks & Advanced AI** 📊 &nbsp;Skilled in **data analysis, visualization & ML model building** 💡 &nbsp;Strong analytical foundation applied to **Software Engineering & Data Science** 🤝 &nbsp;Looking to collaborate on **open source data science projects** 📍 &nbsp;Based in **Nepal 🇳🇵** 📫 &nbsp;Reach me at **[LinkedIn](https://www.linkedin.com/in/prem-rawal/)** 🔗 &nbsp;Portfolio: **[prem-portfolio-dun.vercel.app](https://prem-portfolio-dun.vercel.app)**
+🔭 Currently learning **Deep Learning, Neural Networks & Advanced AI** <br/>
+📊 Skilled in **data analysis, visualization & ML model building** <br/>
+💡 Strong analytical foundation applied to **Software Engineering & Data Science** <br/>
+🤝 Looking to collaborate on **open source data science projects** <br/>
+📍 Based in **Nepal 🇳🇵** <br/>
+📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/prem-rawal/)** <br/>
+🔗 Portfolio: **[prem-portfolio-dun.vercel.app](https://prem-portfolio-dun.vercel.app)** <br/>
 
 <br clear="right"/>
 
@@ -32,16 +38,9 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/Premr24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/prem-rawal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;
-</p>
+<a href="https://github.com/Premr24" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prem-rawal/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 
 ---
 
@@ -53,6 +52,7 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" title="Python" alt="Python" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" title="Java" alt="Java" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark" title="R" alt="R" />
 </p>
 
 **🤖 Data Science & Machine Learning**
@@ -63,7 +63,6 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" alt="Matplotlib" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" title="Scikit-Learn" alt="Scikit-Learn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" title="TensorFlow" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/keras/D00000" title="Keras" alt="Keras" width="48" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" title="Seaborn" alt="Seaborn" />
 </p>
 
@@ -74,7 +73,6 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" title="Git" alt="Git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" alt="Power BI" width="48" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark" title="Excel" alt="Excel" />
 </p>
 
