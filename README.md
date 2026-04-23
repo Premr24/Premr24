@@ -38,8 +38,8 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 
 ## 🔗 Connect with Me
 
-<a href="https://github.com/Premr24" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prem-rawal/" target="_blank">
+<a href="https://www.kaggle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prem-rawal/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 
 ---
