@@ -44,6 +44,14 @@ I'm a Python developer passionate about **Data Science**, **Machine Learning**, 
 
 ---
 
+## 🎓 Certifications
+* **AWS AI & ML Scholars Program** (Udacity) - *May 2026*
+  * Gained hands-on experience with Generative AI, prompt engineering, and AI-assisted data analysis using Amazon Bedrock/PartyRock.
+  *  [View Certificate](www.udacity.com/certificate/e/8c2be9fa-394b-11f1-b9fd-f7d06bab44c8) 
+  *  [View Projects](https://partyrock.aws/u/prem07/ct948-BEk/Outdoor-Fitness-and-Safety-Planner)
+
+---
+
 ## 🛠️ Languages & Tools
 
 **💻 Languages**
